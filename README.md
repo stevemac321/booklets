@@ -1,4 +1,4 @@
-Stephen E. MacKenzie © 2018
+Stephen E. MacKenzie Â© 2018
 
 These documents may be downloaded, printed and freely distributed, but any and all changes must be approved by Stephen E. MacKenzie.  Inquire through github: https://github.com/stevemac321 
 
@@ -10,3 +10,5 @@ BW: stands for Bibleworks.  Copy all three files to your database folder in the 
 Logos:  Create a personal book with the lbc.txt.docx file.
 
 Concordance:  Two documents: a concordance and a scripture index of the LBC.
+
+Scholars Edition of the London Baptist Confession.  Rather than just listing the scripture citation references, this verse prints out the full text of the verse as many versions of the Westminster Confession.  However, there is more!  This scholars edition prints out the full text in multiple English, Greek, Latin, and Hebrew versions as well.  My apologies that it does not include the KJV, but you get that with most of the Westminster Confession versions.
