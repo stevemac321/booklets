@@ -12,3 +12,5 @@ Logos:  Create a personal book with the lbc.txt.docx file.
 Concordance:  Two documents: a concordance and a scripture index of the LBC.
 
 Scholars Edition of the London Baptist Confession.  Rather than just listing the scripture citation references, this verse prints out the full KJV text of the verse as many versions of the Westminster Confession.  However, there is more!  This scholars edition prints out the full text in multiple English, Greek, Latin, and Hebrew versions as well.  
+
+More-Indexes directory contains indexes to the entire Westminister Standards, Keach's Catechism, and the Institutes.
