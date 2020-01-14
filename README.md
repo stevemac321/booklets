@@ -15,4 +15,4 @@ Scholars Edition of the London Baptist Confession.  Rather than just listing the
 
 More-Indexes directory contains indexes to the entire Westminister Standards, Keach's Catechism, and the Institutes.
 
-WCF: A concordance to the WCF (brand new, have not tested it at all, open an Issue if you find bugs).  Concord.cpp is the code that does it.  I have a manual "exception" list of words not to include.  Plus I omit all words shorter than four letters, then if it passes those conditions, it does a database lookup to filter out pronouns, prepositions, conjunctions, and articles.
+WCF: A concordance to the WCF (brand new, have not tested it at all, open an Issue if you find bugs).  Concord.cpp is the code that does it.  I have a manual "exception" list of words not to include.  If the word passes those conditions, it does a database lookup to filter out pronouns, prepositions, conjunctions, and articles.
