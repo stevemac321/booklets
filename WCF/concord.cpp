@@ -55,8 +55,6 @@ bool is_trivial(char *tok, MYSQL *conn)
         "they", "this", "This", "to", "To", "Unto", "unto", "under", "Under", "we", "We", "wherefore", "Wherefore", "When", "when", "which", "Which",
         "whosoever", "Whosoever", "yet", "Yet", "again", "against", "alike", "2020"};
         for(int i=0; i < _countof(exceptions); i++) {
-                if(strlen(tok) < 4)
-                        return true;
                 if(strcmp(tok, exceptions[i]) == 0)
                         return true;
         }
