@@ -1,0 +1,10 @@
+FILE lbc.chm
+ID 1
+MENUNAME &Backgrounds
+MENU ARBCA, 1689 London Baptist Confession of Faith
+DESCRIPTION <b>ARBCA Version of the LBC2, <i>1689 London Baptist Confession of Faith (ARBCA Version)
+RESOURCE_LANGUAGE_TYPE English
+RESOURCE_TYPE Reference
+INDEX_FILE lbc.sdx
+NUMLINKS 0
+
